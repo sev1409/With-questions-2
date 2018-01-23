@@ -1,0 +1,13 @@
+.banner {
+  height: 50vh;
+  background-color: green;
+
+/*  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;*/
+}
+
+h1 {
+  margin: auto;
+}
