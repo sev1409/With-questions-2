@@ -1,13 +1,41 @@
 .banner {
-  height: 50vh;
-  background-color: green;
-
-/*  color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;*/
+  background-color: #000000c4;
+  color: white;
+  height: 30vh;
+  margin: auto;
+  position: relative;
 }
 
 h1 {
-  margin: auto;
+  position: absolute;
+  bottom: 80px;
+  right: 500px;
 }
+
+.post-container {
+  padding: 20px;
+}
+
+.post-content {
+  padding: 15px;
+}
+
+.post-rating {
+  border-bottom: 1px solid black;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 15px;
+  font-size: 20px;
+}
+
+.stars {
+  color: gold;
+}
+
+.post-comments {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+}
+
+
