@@ -2,7 +2,7 @@ DB = [
   {
     title: "Mon premier article",
     content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Id ratione harum illo, dicta minima rerum quod natus cupiditate voluptatibus rem! Amet reprehenderit voluptatum animi, eligendi quia quos reiciendis veritatis magni.",
-    photo: "/images/600.jpeg",
+    photo_url: "http://res.cloudinary.com/dkrjlrpn6/image/upload/v1516797898/Screen_Shot_2017-12-15_at_5.39.24_PM_ddlowr.png",
     rating: "5"
   },
   {
