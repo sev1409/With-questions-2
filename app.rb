@@ -1,6 +1,5 @@
 require "sinatra"
 require "sinatra/reloader" if development?
-require "cloudinary"
 require_relative "database"
 
 #set :static, true
